@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Chocolate Castle
+Comment=Sliding block puzzle game
+Exec=chocolate-castle
+Icon=chocolate-castle
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;PuzzleGame;
